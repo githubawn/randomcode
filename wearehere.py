@@ -1,3 +1,6 @@
+#input file should be "We Are Here.mp4", download from https://www.youtube.com/watch?v=wp_BsqgWbb4 and rename
+#red teaming an example of PsyCrypto https://qri.org/blog/psycrypto-contest
+
 import cv2
 import numpy as np
 
